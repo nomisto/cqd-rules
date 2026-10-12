@@ -1,0 +1,2 @@
+This is the code for running the experiment if the adaption function has an effect on the rule-based approach.
+First generate the data by running `source generate_data.sh`. Then run the HPO by running `python train_hpo.py`
